@@ -13,14 +13,3 @@ const interval = setInterval(() => {
 		clearInterval(interval)
 	}
 }, 5000)
-
-
-
-// const interval = setInterval(showTime, 5000);
-//     count++;
-//     if(count >= 5) {
-//         clearInterval(interval)
-//     }
-
-// interval()
-// showTime()
